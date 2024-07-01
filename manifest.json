@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "movieRater",
+  "version": "1",
+  "description": "“The most popular movies and TV shows in your default tab. Includes ratings, summaries and the ability to watch trailers."
+  "permissions": ["activeTab"],
+  "browser_action": {"default_title": "Hello i guess..."}, 
+  "chrome_url_overrides": { "newtab": "newtab.html"},
+  "permissions": ["activeTab"]}
