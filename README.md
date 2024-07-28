@@ -65,3 +65,5 @@ If you encounter any issues with the extension:
    - Ensure you have the latest version of the extension files.
 
 ---
+
+Arcade 1
